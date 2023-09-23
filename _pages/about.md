@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master student in Robotics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Master Student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), majoring in robotics, and my supervisor is [Prof. Weizhong Guo](https://me.sjtu.edu.cn/en/FullTimeTeacher/guoweizhong.html). I got my bachelor's degree from College of Mechanical Engineering, [Xi'an Jiao Tong University](http://en.xjtu.edu.cn/) in 2021.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary focus is on mobile robots and embodied intelligence. I am also a firm believer in the eventual realization of artificial general intelligence (AGI), and I am excited to be a part of this rapidly evolving field.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The following are my current research interests.
+
+- Mobile Robots
+- Decision-making & Planning
+- Emobodied AI
+- Autonomous Driving
