@@ -4,7 +4,7 @@ title: ROS和MATLAB实现服务通信
 date: 2022-07-06 09:56:00-0400
 description: Shown how to use MATLAB to achieve ROS node communication
 tags: ROS
-categories: tech-posts
+categories: tech
 giscus_comments: true
 related_posts: false
 featured: true
