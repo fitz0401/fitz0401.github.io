@@ -42,11 +42,11 @@ layout: default
           </div>
 
           <!-- Add an empty line -->
-          <div></div>
+          <p style="margin-top: 10px;"></p>
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit; font-weight: bold;">News</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -57,11 +57,11 @@ layout: default
           {%- endif %} -->
 
           <!-- Add an empty line -->
-          <div></div>
+          <p style="margin-top: 10px;"></p>
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit; font-weight: bold;">Selected Publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
