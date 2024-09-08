@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Fu Ze-CV.pdf
+permalink: /assets/pdf/Fu Ze_CV.pdf
 title: CV
 nav: true
 nav_order: 3
