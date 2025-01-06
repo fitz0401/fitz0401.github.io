@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master in Robotics
+subtitle: PhD Student in Robotics
 
 profile:
   align: right
@@ -14,6 +14,10 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am currently a Ph.D. student at KU Leuven, supervised by [Renaud Detry](https://renaud-detry.net/).
+
+Before that, I was an algorithm engineer at Baidu, responsible for the autonomous driving of [Jiyue](https://www.jidu.com/).
 
 I got my master's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2024, supervised by [Prof. Weizhong Guo](https://me.sjtu.edu.cn/en/FullTimeTeacher/guoweizhong.html), and my bachelor's degree from [Xi'an Jiao Tong University](http://en.xjtu.edu.cn/) in 2021.
 
