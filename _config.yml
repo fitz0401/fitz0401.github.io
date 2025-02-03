@@ -106,7 +106,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Email is the best way to reach me: fitz0401 [at] sjtu dot edu dot cn
+  Email is the best way to reach me: ze.fu [at] student dot kuleuven dot be
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

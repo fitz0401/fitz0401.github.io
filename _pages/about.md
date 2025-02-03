@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/), supervised by [Renaud Detry](https://renaud-detry.net/).
+I am currently a Ph.D. student at [KU Leuven](https://www.kuleuven.be/english/kuleuven/), supervised by [Prof. Renaud Detry](https://renaud-detry.net/).
 
 Before that, I was an algorithm engineer at [Baidu](https://ir.baidu.com/) Intelligent Driving Group (IDG), responsible for [Apollo Navigation Pilot (ANP)](https://en.apollo.auto/anp) of [Jiyue](https://www.jidu.com/).
 
