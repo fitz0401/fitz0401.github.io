@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CoRL":
+  url: https://www.corl.org/
+  color: "#8b1d3d"
+
+"IROS":
+  url: https://2026.ieee-iros.org/
+  color: "#0b5e80"
