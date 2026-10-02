@@ -21,11 +21,11 @@ Before that, I was an algorithm engineer at [Baidu](https://ir.baidu.com/) Intel
 
 I got my master's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2024, supervised by [Prof. Weizhong Guo](https://me.sjtu.edu.cn/en/FullTimeTeacher/guoweizhong.html), and my bachelor's degree from [Xi'an Jiao Tong University](http://en.xjtu.edu.cn/) in 2021.
 
-My primary focus is on mobile robots and embodied intelligence. I am also a firm believer in the eventual realization of artificial general intelligence (AGI), and I am excited to be a part of this rapidly evolving field.
+My recent research centers on robotic manipulation, with a particular focus on data-efficient robot learning, vision-language-action (VLA) models, and interactive decision-making. Driven by the long-term vision of general-purpose embodied intelligence, I aim to develop robotic systems that can understand physical interactions, learn and generalize across real-world tasks rapidly.
 
 The following are my current research interests.
 
-- Mobile Robots
-- Decision-making & Planning
-- Emobodied AI
+- Robot Manipulation & Few-Shot Imitation Learning
+- Foundation Models for Robotics
+- Interactive Decision-Making
 - Autonomous Driving
