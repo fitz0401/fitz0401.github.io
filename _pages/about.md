@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Robotics
+subtitle: PhD Student in Robot Learning
 
 profile:
   align: right
