@@ -1,16 +1,11 @@
           <div class="news">
             {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
-            <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
+            <div class="table-responsive">
               <table class="table table-sm table-borderless">
               {%- assign news = site.news | reverse -%}
-              {% if include.limit and site.announcements.limit %}
-              {% assign news_limit = site.announcements.limit %}
-              {% else %}
-              {% assign news_limit = news_size %}
-              {% endif %}
-              {% for item in news limit: news_limit %}
-                <tr>
+              {% for item in news %}
+                <tr{% if forloop.index > 3 %} class="collapse news-more"{% endif %}>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%}
@@ -23,6 +18,9 @@
               {%- endfor %}
               </table>
             </div>
+            {% if news_size > 3 %}
+            <button class="btn btn-sm z-depth-0" type="button" data-toggle="collapse" data-target=".news-more" aria-expanded="false">Show all news</button>
+            {% endif %}
           {%- else -%}
             <p>No news so far...</p>
           {%- endif %}

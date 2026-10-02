@@ -52,6 +52,11 @@ table.table a {
   background-color: transparent;
 }
 
+// Bootstrap's collapse utility uses block display; preserve the table layout for hidden news rows.
+.news tr.collapse.show {
+  display: table-row;
+}
+
 figure,
 img {
   max-width: 90vw;
